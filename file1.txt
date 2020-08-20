@@ -1,5 +1,5 @@
 text for vesion 1
 bla
-zxc
+my fixXXX
 qwe
 end text
